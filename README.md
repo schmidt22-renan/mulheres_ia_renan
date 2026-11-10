@@ -1,1 +1,2 @@
-# mulheres_ia_renan
+# mulheres_tecnologia
+Site para ser finalizado pelos estudantes. 
